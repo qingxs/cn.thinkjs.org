@@ -865,7 +865,7 @@ ctx.json({name: 'test'});
 }
 ```
 
-#### ctx.success(data, message)
+#### ctx.success(message, data)
 
 * `data` {Mixed} 要输出的数据
 * `message` {String} errmsg 字段的数据
